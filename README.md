@@ -20,4 +20,4 @@
 
 Beim ersten Startversuch der virtuellen Maschine trat ein Virtualisierungsfehler auf, der den Systemstart blockierte. 
 
-![AMD-V BIOS Error Bild](HomeLab-Projekt/screenshots/AMD_V_Error.png "AMD-V BIOS Error")
+![AMD-V BIOS Error Bild](/screenshots/AMD_V_Error.png "AMD-V BIOS Error")
